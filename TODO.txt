@@ -1,0 +1,2 @@
+Is there gitignore for blender project folder? Maybe for output?
+This folder only contain .blend file, obviously not ignoring that here.
